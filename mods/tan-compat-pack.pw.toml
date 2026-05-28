@@ -1,0 +1,13 @@
+name = "Tough As Nails - Compatibility Pack"
+filename = "tan-compat-pack-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1b0lF34/versions/EHDTQbxx/tan-compat-pack-1.0.0.jar"
+hash-format = "sha512"
+hash = "cbb6868523a936aabde2870b4f187cfadc533b7f16263aa0b9515dc7e8a9aa727d06b98fd414aef2f73d7e29a342f5274038e5726c9614cd254856c17998a4c6"
+
+[update]
+[update.modrinth]
+mod-id = "U1b0lF34"
+version = "EHDTQbxx"

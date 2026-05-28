@@ -1,0 +1,13 @@
+name = "Additional Additions"
+filename = "additionaladditions-neoforge-10.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/qpSDYH22/additionaladditions-neoforge-10.0.4.jar"
+hash-format = "sha512"
+hash = "33ae90298e000740425148ae7dfb4d065daf745fb7ce8618e3f2324ecc888dc0eef21ce8886f4d9c6704cc0b3bf42f962a3c8ed48737e4906e3011ea92f0a929"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "qpSDYH22"

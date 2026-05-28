@@ -1,0 +1,13 @@
+name = "Questlog"
+filename = "questlog-neoforge-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufQYCY6N/versions/ITyVhm4m/questlog-neoforge-1.21.1-2.3.0.jar"
+hash-format = "sha512"
+hash = "cbbed2b215c4ae73ba0dbeb14c608996448b4cd2d65c268da790eb0110adc521f28d7712d1b1718c7c32697d0036c1f0ade7c5e10629549fe7351c16b18d10ec"
+
+[update]
+[update.modrinth]
+mod-id = "ufQYCY6N"
+version = "ITyVhm4m"

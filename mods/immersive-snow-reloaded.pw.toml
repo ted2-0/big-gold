@@ -1,0 +1,13 @@
+name = "Immersive Snow (Reloaded)"
+filename = "immersive_snow_reloaded-neoforge-1.0.2+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kuvkkZCQ/versions/haYzRbDR/immersive_snow_reloaded-neoforge-1.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "a5e77fe0c1fb8139fcee614c67d1f13a3251ba520b83bb14df28122fd65a2b708c7899cd0b09310b0373a5b8cefe7c1d4fe4aff722eafc2a074041135a47a1b5"
+
+[update]
+[update.modrinth]
+mod-id = "kuvkkZCQ"
+version = "haYzRbDR"

@@ -1,0 +1,13 @@
+name = "Yudo's VC Interaction (Sculks and Warden)"
+filename = "Yudo's VC Interaction v1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b2rTkKue/versions/64JFkZGl/Yudo%27s%20VC%20Interaction%20v1.jar"
+hash-format = "sha512"
+hash = "848772fb582090cdfbde7dabd1791f450ae5d1a16bfa74e11c6965f8ec3dd6ae7af43fafe0c04008a88dc84b645c0a8317182516f65216dedb8997990783c066"
+
+[update]
+[update.modrinth]
+mod-id = "b2rTkKue"
+version = "64JFkZGl"
