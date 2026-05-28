@@ -906,11 +906,6 @@ hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
 metafile = true
 
 [[files]]
-file = "mods/true-ending.pw.toml"
-hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
-metafile = true
-
-[[files]]
 file = "mods/underground-worlds.pw.toml"
 hash = "be44971bf3fdafc650bffc711bf574055715b04612e92b7b44be1e01ea1b8bf5"
 metafile = true
