@@ -1,0 +1,13 @@
+name = "No Elytra Boost"
+filename = "no_elytra_boost-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52daf30125f24fd4104f368fb3b096d0691f6e0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7677857
+project-id = 1471800
