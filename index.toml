@@ -601,11 +601,6 @@ hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
 
 [[files]]
-file = "mods/music-maker-mod-neoforge.pw.toml"
-hash = "21a05695fda353e0dd8f03b5dfe8c27d5f94883bfe7fb064092d343105ffac32"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "bcd24eb0db2625488682ca538416a87a301543e5b68bff6633677a6780422db5"
 metafile = true
