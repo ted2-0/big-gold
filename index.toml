@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials-shader-support.pw.toml"
-hash = "4467af92014819c6fe11efb3e5b8ec22784364a100bf0c3b68e237323bdacf28"
+hash = "c64bc05f4e2f064bfacc88ab1077fd0814fa0a262d91924014b3f347c0199421"
 metafile = true
 
 [[files]]
