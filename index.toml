@@ -916,11 +916,6 @@ hash = "be44971bf3fdafc650bffc711bf574055715b04612e92b7b44be1e01ea1b8bf5"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-backpacks.pw.toml"
-hash = "964698655c77bbfdef18ea9b86ceb3163cef36a06326b1a91710bde0a03ea8bf"
-metafile = true
-
-[[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "c6c43e0e9b5a5da5c74db1cea2e44c943688fc6681c7c7627e2a5c2387e31c15"
 metafile = true
