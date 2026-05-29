@@ -251,6 +251,11 @@ hash = "7e01c6f0728da08b83df626b866ca83e770b80d3213e9107561d4b816069ed37"
 metafile = true
 
 [[files]]
+file = "mods/discord-integration-(di).pw.toml"
+hash = "af8b8c64714dc0ef3fd4ffb12462edabbe7a62295b9a574bb8968b4e62cec28a"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "56cb2e8e396bf26b56ffe0a44c794984435c35e15959ff46539bb8aead85ad77"
 metafile = true
@@ -478,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "8a801f6101907154065cb49742b1fbbb95f781a07b8abeb40323bd58c747f201"
-metafile = true
-
-[[files]]
-file = "mods/immersive-snow-reloaded.pw.toml"
-hash = "0f89ed1cabc5b7d0f649fbb4b297ac50467feaeca164e824fb162fe3086dfece"
 metafile = true
 
 [[files]]
