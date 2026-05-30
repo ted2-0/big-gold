@@ -121,6 +121,11 @@ hash = "0023a57c07d2017de5e91da866b96d93c48c8f6fa6a504a04682afc070e215f1"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "89865794f0fbe908f5b5b1c2628df8f9c0aa715313d305f08f922cf7b5c9be9d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -183,11 +188,6 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
@@ -328,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
-metafile = true
-
-[[files]]
-file = "mods/explorify.pw.toml"
-hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
@@ -493,11 +488,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
-metafile = true
-
-[[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "01d2dc33988b6daf0fad9a63b7474832d3876455d1119d6c6e1dde9d203ad718"
 metafile = true
 
 [[files]]
@@ -901,11 +891,6 @@ hash = "5518dd2f6a5d88e4affb9df628604737893025206d7149579e4c24f909b130a3"
 metafile = true
 
 [[files]]
-file = "mods/trek.pw.toml"
-hash = "00afcbfc1b6771e8650e868dcdb6f0aac3a319b8de9bf363530ce7a62bd807fe"
-metafile = true
-
-[[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
 metafile = true
@@ -921,6 +906,11 @@ hash = "c6c43e0e9b5a5da5c74db1cea2e44c943688fc6681c7c7627e2a5c2387e31c15"
 metafile = true
 
 [[files]]
+file = "mods/villa-la-revolution.pw.toml"
+hash = "19ab8682d0cb72b41c848677da8432b9767a4d51c71fad7c05ed41e40026b68b"
+metafile = true
+
+[[files]]
 file = "mods/villagerapi.pw.toml"
 hash = "939d5ba622ccaa6c1fba8a3c5007d3876f851540b0c9b23922e26ba89fe37ebb"
 metafile = true
@@ -928,11 +918,6 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "2d57f246f4d3abf17f789c8a98544c2d30c08b339e9b74a650e59b9f38e004ee"
-metafile = true
-
-[[files]]
-file = "mods/wabi-sabi-structures.pw.toml"
-hash = "6d054c36efe3925eb6309abd10f46cf3672790353af8d6e53cc45a33acac274f"
 metafile = true
 
 [[files]]
