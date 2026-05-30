@@ -31,6 +31,11 @@ hash = "fe3f752f78cd25803f7013c94bb602567bf242be165462f2287b430d457a144e"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
 
 [[files]]
@@ -166,6 +176,11 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "7ea72bc415b4b067a98790b5fcef0afd843a226587588b293b6cbf145d834575"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
@@ -226,6 +241,11 @@ hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "7dc4daef7f7fbd4f89aa502f54ec24049a60c016e47d2b37776f3905623e3578"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -243,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "7e01c6f0728da08b83df626b866ca83e770b80d3213e9107561d4b816069ed37"
+metafile = true
+
+[[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
 metafile = true
 
 [[files]]
@@ -283,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "1045ba1bb46eb77e2fea9be04268c2c73c161b94f3bceddbd4c3dbff1c0bf555"
+metafile = true
+
+[[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "28ac34eafc267a4bde8c694bc23c66f0aa0837156bd808ee41023a63bdc68488"
 metafile = true
 
 [[files]]
@@ -466,6 +496,11 @@ hash = "306c6a05c47046994a065bd8a461bd1ba1a7a8187f267c35ddf81c0a3041ed98"
 metafile = true
 
 [[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "2c3b11ad8600d216d09491fc05bfd0c378c648d23f7616f23bbb18716778ff6f"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
 metafile = true
@@ -601,6 +636,11 @@ hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "7b00b0ef46a798a4a46fe541314c63cfd62017190cd554e855cc21ef44e32635"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers-re-employed.pw.toml"
 hash = "a9e205a10f37e99beed3961f9b6ad54f9a05fefc25196529ea0a2c9feb73f719"
 metafile = true
@@ -613,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
 metafile = true
 
 [[files]]
@@ -741,6 +786,11 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "3da8a9aa7208ef7593239ecd755f40a564fd6b1883737796ecf9aab3744140dd"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
 metafile = true
@@ -841,6 +891,11 @@ hash = "26a5f31016e8628102c591b3e1edd474337d14c938a970ec46eee9388d7d278c"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "3df81c179b5d2c98d5e339285555e03d1197dc213f8a84bf1e611ea6d036d068"
+metafile = true
+
+[[files]]
 file = "mods/structurify.pw.toml"
 hash = "ca460c9a5fd664a1a2f60a77cec58bdb6e4f81ad20cfc7b8257eb1edf4f23475"
 metafile = true
@@ -863,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/the-aethers-delight.pw.toml"
+hash = "055283aa7790b335df36917fd72eb9f35f4d5cbe3a1e66d53efba4fe79ec1266"
 metafile = true
 
 [[files]]
@@ -893,6 +953,11 @@ metafile = true
 [[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
+metafile = true
+
+[[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "aa816798bab9cb40697b05b3069a6a6b07281f6d583328bb119b9560d13388eb"
 metafile = true
 
 [[files]]
