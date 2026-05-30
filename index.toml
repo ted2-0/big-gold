@@ -286,6 +286,11 @@ hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
 metafile = true
 
 [[files]]
+file = "mods/draconic-archers-moon-bundle.pw.toml"
+hash = "f25d74d86e6d1bb17192814612b5197f788833b5c1ba0663688d82c3d1998525"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
 hash = "ae0e810f5d824dbf486bce1629ddf3e792529d78147575fd57b6be1a35ab2843"
 metafile = true
@@ -342,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "39cbab92fb61fa1809540a828858e16c2386ff6fbd5bc01140d180c74ad94002"
+hash = "36b1bfa4292d1ba3dfe05badf5686f51eaa388ee1ada210690241cc45a9b20aa"
 metafile = true
 
 [[files]]

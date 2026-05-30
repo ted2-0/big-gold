@@ -1,0 +1,13 @@
+name = "Draconic Archer's Moon Bundle"
+filename = "Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ay7BmJIa/versions/kbI1pOHh/Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "84f5641d0480d8e9e2b4ec85a6ea7e2a38b2a35ed6f46f3058ed795037249ad312d56024df9cf54cdafccabceaf112bcb172be6e8995aaa4d151b67559faa5ae"
+
+[update]
+[update.modrinth]
+mod-id = "ay7BmJIa"
+version = "kbI1pOHh"
