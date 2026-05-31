@@ -626,6 +626,11 @@ hash = "d9259ff846ac2b9755893a29fa1e6bf120cce7a4c90836011e65c22fe1e4ddb3"
 metafile = true
 
 [[files]]
+file = "mods/mended-mending.pw.toml"
+hash = "527be22c4fbb91a35cc5557b79864091c3e5a2264175b032a466d2ed01bb2166"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
 metafile = true
