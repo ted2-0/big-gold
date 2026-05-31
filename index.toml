@@ -26,6 +26,11 @@ hash = "fe3f752f78cd25803f7013c94bb602567bf242be165462f2287b430d457a144e"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture-delight.pw.toml"
 hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
 metafile = true
@@ -557,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8da46348495ee032dbac80374ff4691351e41dfee9957dc27811e0957fe13e4e"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
